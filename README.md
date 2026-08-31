@@ -4,7 +4,7 @@
 
 ###  🎓 Futur Ingénieur Big Data & IA | Data Scientist
 
-📍 Salé, Maroc &nbsp;·&nbsp; 🔍 En recherche d'un stage de fin d'études (PFE) &nbsp;·&nbsp; 3 mois minimum, à partir de janvier 2026
+📍 Salé, Maroc &nbsp;·&nbsp; 🔍 En recherche d'un stage de fin d'études (PFE) &nbsp;·&nbsp; 3 mois minimum, à partir de janvier 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wend-kouni-eddie-eliel-zida)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidaeddie@gmail.com)
