@@ -25,7 +25,7 @@
 
 *Paulo Coelho* : `Quand on ne peut revenir en arrière, on ne doit se préoccuper que de la meilleure façon d'aller de l'avant.`  
 
-*Auteur inconnu* : `Quand tu trouves la paix quelque part, même s'il n'y a pas de chaise, assieds-toi par terre`
+*Auteur inconnu* : `Quand tu trouves la paix quelque part, même s'il n'y a pas de chaise, assieds-toi par terre.`
 
 
 ## Compétences techniques 
