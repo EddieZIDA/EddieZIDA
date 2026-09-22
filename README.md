@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Salut, je suis Eddie ZIDA 👋
+#  Salut, je suis Eddie ZIDA 
 
 ###  🎓 Futur Ingénieur Big Data & IA | Data Scientist
 
@@ -23,9 +23,9 @@
 
 ## Citations qui me parlent
 
-*Paulo Coelho* : `Quand on ne peut revenir en arrière, on ne doit se préoccuper que de la meilleure façon d'aller de l'avant.`  
+*Alan Jay Perlis* : `La preuve de la valeur d'un système informatique est son existence.`
 
-*Auteur inconnu* : `Quand tu trouves la paix quelque part, même s'il n'y a pas de chaise, assieds-toi par terre.`
+*Paulo Coelho* : `Quand on ne peut revenir en arrière, on ne doit se préoccuper que de la meilleure façon d'aller de l'avant.`
 
 
 ## Compétences techniques 
@@ -40,15 +40,15 @@
 
 ## Expérience 
 
+**Stagiaire Data/IA**
+[Hakili-lab], En présentiel (1er Juillet - 11 Septembre 2026)
+- Plateforme de correction intelligente de copies basée sur les LLMs (extraction, correction, remédiation)
+- Génération de rapports NLP et stockage des données dans PostgreSQL
+
 **Stagiaire IA**
-[3LM Solutions], À distance (Juillet - Septembre 2026)
+[3LM Solutions], À distance (21 Juillet - 21 Septembre 2026)
 - Développement d'un moteur d'analyse conversationnelle d'appels commerciaux (« Superviseur IA »)
 - Conception de modules LLM en NestJS/TypeScript
-
-**Stagiaire Data/IA**
-[Hakili-lab], En présentiel (Juillet - Septembre 2026)
-- Plateforme de correction intelligente de documents basée sur les LLMs (extraction, correction, remédiation)
-- Génération de rapports NLP et stockage des données dans PostgreSQL
 
 **Agent enquêteur**
 ISSP Burkina Faso, Burkina Faso (Aout - Septembre 2023)
