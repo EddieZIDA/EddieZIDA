@@ -81,24 +81,3 @@ Classes Préparatoires aux Grandes Écoles (CPGE)
 - **Smart Analytics, Machine Learning and AI on Google Cloud** - *Google*
   [Voir le certificat](XXXX) · Délivré : Janvier 2026
 
-##  Projets phares
-
-** Smart City - Prédiction du Stress Urbain** · *Africa TechUp Tour, 2025-2026*
-Prédiction de l'indice de stress des conducteurs (régression 0-100) sur 50 000 observations de trafic en temps réel. Feature engineering (`congestion_score`, r=0.835), traitement VIF, benchmark de 4 algos avec RandomizedSearchCV. Modèle XGBoost final : **R² 0.909, RMSE 4.90**. Déployé sur Streamlit Cloud.
-`Python` `XGBoost` `Scikit-learn` `Streamlit` `Pandas` `Seaborn` `Plotly`
-[Voir le repo →](https://github.com/EddieZIDA/SmartCityTraffic-StressIndex-Prediction)
-
-** Churn Prediction - Classification Bancaire** · *2026*
-Prédiction de l'attrition client sur 10 000 observations, gestion du déséquilibre de classes (80/20), benchmark de 8 modèles ML et ajustement du seuil de décision pour maximiser le Recall. Modèle LightGBM final : **AUC-ROC 0.87, Recall 77%**.
-`Python` `LightGBM` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
-[Voir le repo →](https://github.com/EddieZIDA/churn-prediction)
-
-** AeroRisk - Prédiction en Sécurité Aérienne**
-Application full-stack prédisant la gravité d'accidents aériens (90 000 rapports fusionnés), avec IA de confiance (explicabilité SHAP, couverture MAPIE 90%) et rapports générés par LLM.
-`Python` `LightGBM` `SHAP/MAPIE` `Flask/React` `API Gemini`
-[Voir le repo →](https://github.com/EddieZIDA/aviation-risk-predictor)
-
-** Génération de Résumés (NLP & Deep Learning)**
-Architecture Seq2Seq (GRU + Attention) from scratch et fine-tuning de T5-small (fp16) pour résumer des articles (CNN/DailyMail), évalués par métriques ROUGE.
-`PyTorch` `Hugging Face` `Seq2Seq` `GPU T4`
-
