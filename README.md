@@ -2,7 +2,7 @@
 
 #  Salut, je suis Eddie ZIDA 
 
-###  🎓 Futur Ingénieur Big Data & IA | Data Scientist
+###  🎓 Futur Ingénieur Big Data & IA | Data Scientist | AI Enthusiast | ML, NLP & IA appliquée
 
 📍 Salé, Maroc &nbsp;·&nbsp; 🔍 En recherche d'un stage de fin d'études (PFE) &nbsp;·&nbsp; 3 mois minimum, à partir de janvier 2027
 
