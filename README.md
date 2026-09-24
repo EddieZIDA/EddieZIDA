@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Eddie ZIDA 👋</h1>
 
 <p align="center">
-  <b>Élève-ingénieur Big Data & IA · Data Scientist · ML, LLM & IA appliquée</b><br>
+  <b>Élève-ingénieur Big Data & IA · Futur AI Engineer · ML de bout en bout & systèmes LLM</b><br>
   📍 Salé, Maroc · 🔍 <b>Je cherche un stage PFE en Data/IA</b> (3 mois minimum, dès Février 2027)
 </p>
 
