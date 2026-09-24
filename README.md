@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Élève-ingénieur Big Data & IA · Data Scientist · ML, LLM & IA appliquée</b><br>
-  📍 Salé, Maroc · 🔍 <b>Je cherche un stage PFE en Data/IA</b> (3 mois minimum, dès janvier 2027)
+  📍 Salé, Maroc · 🔍 <b>Je cherche un stage PFE en Data/IA</b> (3 mois minimum, dès Février 2027)
 </p>
 
 <p align="center">
