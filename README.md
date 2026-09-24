@@ -12,7 +12,7 @@
 
 ---
 
-Je construis des modèles de Machine Learning **de bout en bout** : de l'exploration des données jusqu'à une application déployée, avec du code testé, versionné et intégré en continu. J'ai aussi travaillé en stage sur des **systèmes à base de LLM** (correction automatique de copies, analyse d'appels commerciaux).
+Je conçois des systèmes d'IA de bout en bout : de l'exploration des données jusqu'à l'application déployée, avec un code testé, versionné et intégré en continu, et un suivi des modèles sous MLflow. En stage, j'ai développé des composants de systèmes à base de LLM : une plateforme de correction automatique de copies chez Hakili-lab et un moteur d'analyse d'appels commerciaux chez 3LM Solutions. Je recherche un stage de fin d'études en AI Engineering à partir de février 2027.
 
 ## 🚀 Projets phares
 
