@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Élève-ingénieur Big Data & IA · Futur AI Engineer · ML de bout en bout & systèmes LLM</b><br>
-  📍 Salé, Maroc · 🔍 <b>Je cherche un stage PFE en Data/IA</b> (3 mois minimum, dès Février 2027)
+  📍 Salé, Maroc · 🔍 <b>Je cherche un stage PFE en AI Engineering</b> (dès février 2027)
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-Je conçois des systèmes d'IA de bout en bout : de l'exploration des données jusqu'à l'application déployée, avec un code testé, versionné et intégré en continu, et un suivi des modèles sous MLflow. En stage, j'ai développé des composants de systèmes à base de LLM : une plateforme de correction automatique de copies chez Hakili-lab et un moteur d'analyse d'appels commerciaux chez 3LM Solutions. Je recherche un stage de fin d'études en AI Engineering à partir de février 2027.
+Je conçois des systèmes d'IA de bout en bout : de l'exploration des données jusqu'à l'application déployée, avec un code testé, versionné et intégré en continu, et un suivi des modèles sous MLflow. En stage, j'ai développé des composants de systèmes à base de LLM : une plateforme de correction automatique de copies chez Hakili-lab et un moteur d'analyse d'appels commerciaux chez 3LM Solutions.
 
 ## 🚀 Projets phares
 
@@ -64,20 +64,16 @@ Tous ces projets suivent la même rigueur : code dans `src/` séparé des notebo
 
 <br>
 
-**Big Data & AI engineering student (ISGA Rabat, graduating 2027) · Data Scientist**
+**Big Data & AI engineering student · Aspiring AI Engineer · End-to-end ML & LLM systems**
 
-I build end-to-end Machine Learning projects, from data exploration to deployed apps, with tested and CI-backed code. During my internships I worked on LLM-based systems (automated grading of student papers, sales call analysis).
+📍 Salé, Morocco · 🔍 **Looking for a final-year internship in AI Engineering** (from February 2027)
 
-**Highlights**
-- **AeroRisk**: aviation accident severity prediction with conformal uncertainty (MAPIE) and LLM-generated safety reports (Gemini, Flask, React).
-- **Bank churn**: LightGBM, AUC-ROC 0.87, 89.9% recall at a cost-based threshold. [Live demo](https://churn-prediction-mz.streamlit.app/)
-- **SmartCity Stress Index**: XGBoost, R² = 0.91. [Live demo](https://smartcitytraffic-stressindex-prediction.streamlit.app/)
-- **Kaggle House Prices**: weighted ensemble, 0.11548 RMSLE on the public leaderboard.
+I build end-to-end AI systems: from data exploration to deployed applications, with tested, versioned and continuously integrated code, and model tracking with MLflow. During my internships, I developed components of LLM-based systems: an automated exam-grading platform at Hakili-lab and a sales-call analysis engine at 3LM Solutions.
 
-📩 **Looking for an end-of-studies internship in Data/AI (3 months minimum), starting February 2027.** Languages: French (native), English (intermediate).
+*Open to opportunities in AI Engineering and Machine Learning. Feel free to reach out!*
 
 </details>
 
 ---
 
-<p align="center"><i>Ouvert aux opportunités de stage PFE en Data Science, Machine Learning et IA appliquée. Écrivez-moi !</i></p>
+<p align="center"><i>Ouvert aux opportunités en AI Engineering et Machine Learning. Écrivez-moi !</i></p>
