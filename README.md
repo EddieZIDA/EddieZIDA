@@ -1,83 +1,83 @@
-<div align="center">
+<h1 align="center">Salut, je suis Eddie ZIDA 👋</h1>
 
-#  Salut, je suis Eddie ZIDA 
+<p align="center">
+  <b>Élève-ingénieur Big Data & IA · Data Scientist · ML, LLM & IA appliquée</b><br>
+  📍 Salé, Maroc · 🔍 <b>Je cherche un stage PFE en Data/IA</b> (3 mois minimum, dès janvier 2027)
+</p>
 
-###  🎓 Futur Ingénieur Big Data & IA | Data Scientist | AI Enthusiast | ML, NLP, LLM, systèmes RAG & IA appliquée
-
-📍 Salé, Maroc &nbsp;·&nbsp; 🔍 En recherche d'un stage de fin d'études (PFE) &nbsp;·&nbsp; 3 mois minimum, à partir de janvier 2027
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wend-kouni-eddie-eliel-zida)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidaeddie@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wend-kouni-eddie-eliel-zida-501815260"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:zidaeddie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## À propos de moi 
+Je construis des modèles de Machine Learning **de bout en bout** : de l'exploration des données jusqu'à une application déployée, avec du code testé, versionné et intégré en continu. J'ai aussi travaillé en stage sur des **systèmes à base de LLM** (correction automatique de copies, analyse d'appels commerciaux).
 
-- Étudiant en 5ᵉ année d'Ingénierie des Systèmes Informatiques à **ISGA Rabat**, spécialisation **Big Data & IA** (2024–2027)
-- Passé par des Classes Préparatoires aux Grandes Écoles (CPGE) à **INSUP La Salle**, Ouagadougou &nbsp;·&nbsp; rigueur analytique et méthode
-- Stages et expériences en Data/IA : Hakili-lab, 3LM Solutions, ISSP Burkina Faso
-- Bilingue : Français (langue maternelle) et Anglais (intermédiaire)
-- Rigueur et éthique de la donnée, esprit d'analyse, adaptabilité et esprit d'équipe
+## 🚀 Projets phares
 
-## Citations qui me parlent
+| Projet | Ce que ça fait | Résultat clé | Stack | Liens |
+|---|---|---|---|---|
+| **[AeroRisk](https://github.com/EddieZIDA/aviation-risk-predictor)** | Prédit la gravité d'un accident aérien (NTSB 2008-2026 + météo NOAA) et génère un rapport de sécurité avec un LLM | Incertitude par prédiction conforme (MAPIE) | XGBoost, MAPIE, Gemini, Flask, MongoDB, React/TS | [Code](https://github.com/EddieZIDA/aviation-risk-predictor) |
+| **[Churn bancaire](https://github.com/EddieZIDA/churn-prediction)** | Identifie les clients d'une banque sur le point de partir (10 000 clients) | AUC-ROC 0,87 · Recall 89,9 % au seuil calibré sur le coût métier | LightGBM, SHAP, MLflow, Docker, Streamlit | [Démo](https://churn-prediction-mz.streamlit.app/) · [Code](https://github.com/EddieZIDA/churn-prediction) |
+| **[SmartCity Stress Index](https://github.com/EddieZIDA/SmartCityTraffic-StressIndex-Prediction)** | Prédit l'indice de stress des conducteurs (0-100) à partir du trafic et de la météo | R² = 0,91 | XGBoost, MLflow, Plotly, Streamlit | [Démo](https://smartcitytraffic-stressindex-prediction.streamlit.app/) · [Code](https://github.com/EddieZIDA/SmartCityTraffic-StressIndex-Prediction) |
+| **[Kaggle House Prices](https://github.com/EddieZIDA/KaggleCompetition_home-price-prediction)** | Estime le prix de vente de maisons (Ames, Iowa) | RMSLE 0,1071 en CV · 0,11548 au leaderboard public | Optuna, CatBoost, XGBoost, ensemble pondéré | [Code](https://github.com/EddieZIDA/KaggleCompetition_home-price-prediction) |
 
-*Alan Jay Perlis* : `La preuve de la valeur d'un système informatique est son existence.`
+<!--
+  À AJOUTER dès qu'un repo LLM/RAG est public (ex. chatbot de maths RAG) :
+| **[Nom du projet](lien)** | Chatbot de maths (RAG) pour les élèves du Burkina Faso | ... | LangChain / embeddings / LLM | [Démo](lien) · [Code](lien) |
+-->
 
-*Paulo Coelho* : `Quand on ne peut revenir en arrière, on ne doit se préoccuper que de la meilleure façon d'aller de l'avant.`
+Tous ces projets suivent la même rigueur : code dans `src/` séparé des notebooks, **tests pytest**, **CI GitHub Actions**, lint flake8 et suivi des expériences.
 
+## 💼 Expérience
 
-## Compétences techniques 
+- **Stagiaire IA · 3LM Solutions** (à distance, juil.-sept. 2026) : moteur d'analyse conversationnelle d'appels commerciaux (« Superviseur IA »), modules LLM en NestJS/TypeScript.
+- **Stagiaire Data/IA · Hakili-lab** (Ouagadougou, juil.-sept. 2026) : plateforme de correction intelligente de copies par LLM (extraction, correction, remédiation), rapports NLP, PostgreSQL.
+- **Agent enquêteur · ISSP Burkina Faso** (août-sept. 2023) : collecte et fiabilisation de données socio-économiques de terrain.
 
-| Catégorie | Outils/Technologies |
+## 🛠️ Stack
+
+| Domaine | Outils |
 |---|---|
-| Langages & bases de données | Python, SQL, PostgreSQL, MySQL, MongoDB, Oracle |
-| Machine Learning & NLP | Scikit-learn, Hugging Face, XGBoost, LightGBM, Pandas, NumPy |
-| Data Visualisation | Power BI, Streamlit, Matplotlib, Plotly |
-| Big Data, Cloud & Outils | Hadoop, Google Cloud (GCP), Docker, Git |
-| Développement Full-Stack | FastAPI, Flask, Node.js, Angular, JavaScript |
+| Langages & données | Python, SQL, TypeScript, PostgreSQL, MongoDB |
+| Machine Learning | scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, SHAP, MAPIE |
+| LLM & NLP | API Gemini, LLM appliqués (extraction, correction, analyse de conversations) |
+| MLOps & déploiement | MLflow, Docker, GitHub Actions, pytest, Streamlit, Flask |
+| Visualisation & cloud | Plotly, Matplotlib, Power BI, Google Cloud (GCP) |
 
-## Expérience 
+## 🎓 Formation
 
-**Stagiaire Data/IA**
-[Hakili-lab], En présentiel (1er Juillet - 11 Septembre 2026)
-- Plateforme de correction intelligente de copies basée sur les LLMs (extraction, correction, remédiation)
-- Génération de rapports NLP et stockage des données dans PostgreSQL
+- **ISGA Rabat** · Diplôme d'ingénieur en Ingénierie des Systèmes Informatiques, spécialisation Big Data & IA (2024-2027)
+- **INSUP La Salle, Ouagadougou** · Classes préparatoires aux grandes écoles (2022-2024)
 
-**Stagiaire IA**
-[3LM Solutions], À distance (21 Juillet - 21 Septembre 2026)
-- Développement d'un moteur d'analyse conversationnelle d'appels commerciaux (« Superviseur IA »)
-- Conception de modules LLM en NestJS/TypeScript
+## 📜 Certifications
 
-**Agent enquêteur**
-ISSP Burkina Faso, Burkina Faso (Aout - Septembre 2023)
-- Collecte et fiabilisation de données socio-économiques de terrain
+- Smart Analytics, Machine Learning and AI on Google Cloud · Google (2026)
+- [Maîtrisez l'apprentissage supervisé](https://openclassrooms.com/fr/course-certificates/5408370895) · OpenClassrooms (2026)
+- [Réalisez une analyse exploratoire de données](https://openclassrooms.com/fr/course-certificates/5169300142) · OpenClassrooms (2026)
+- [Réalisez des dashboards avec Power BI](https://openclassrooms.com/fr/course-certificates/7987563919) · OpenClassrooms (2025)
+- [Data Analysis with Python](https://freecodecamp.org/certification/fcc-1bad3e7e-1d62-4be8-be1d-2874f78650bf/data-analysis-with-python-v7) · freeCodeCamp (2025)
 
-## Formation 
+<details>
+<summary>🇬🇧 <b>English version</b></summary>
 
-**ISGA Rabat**
-Diplôme d'Ingénieur, Ingénierie des Systèmes Informatiques &nbsp;·&nbsp; spécialisation Big Data & IA
-2024.09 – 2027.07
-**Cours pertinents :** (Big Data, Machine Learning, Deep Learning, NLP, Cloud, Bases de données...)
+<br>
 
-**INSUP La Salle**, Ouagadougou
-Classes Préparatoires aux Grandes Écoles (CPGE)
-2022.09 - 2024.07
-**Cours pertinents :** (Mathématiques, Physique, Algorithmique...)
+**Big Data & AI engineering student (ISGA Rabat, graduating 2027) · Data Scientist**
 
-## Certifications
+I build end-to-end Machine Learning projects, from data exploration to deployed apps, with tested and CI-backed code. During my internships I worked on LLM-based systems (automated grading of student papers, sales call analysis).
 
-- **Data Science Associate** - *DataCamp* (en cours)
-- **Data Scientist** - *Africa TechUp Tour* (en cours)
-- **Data Analysis with Python** - *freeCodeCamp*
-  [Voir le certificat](https://freecodecamp.org/certification/fcc-1bad3e7e-1d62-4be8-be1d-2874f78650bf/data-analysis-with-python-v7) · Délivré : Juin 2025
-- **Réalisez une Analyse Exploratoire de Données** - *OpenClassrooms*
-  [Voir le certificat](https://openclassrooms.com/fr/course-certificates/5169300142) · Délivré : Mars 2026
-- **Réalisez des Dashboards avec Power BI** - *OpenClassrooms*
-  [Voir le certificat](https://openclassrooms.com/fr/course-certificates/7987563919) · Délivré : Juillet 2025
-- **Maîtrisez l'Apprentissage Supervisé** - *OpenClassrooms*
-  [Voir le certificat](https://openclassrooms.com/fr/course-certificates/5408370895) · Délivré : Janvier 2026
-- **Smart Analytics, Machine Learning and AI on Google Cloud** - *Google*
-  [Voir le certificat](XXXX) · Délivré : Janvier 2026
+**Highlights**
+- **AeroRisk**: aviation accident severity prediction with conformal uncertainty (MAPIE) and LLM-generated safety reports (Gemini, Flask, React).
+- **Bank churn**: LightGBM, AUC-ROC 0.87, 89.9% recall at a cost-based threshold. [Live demo](https://churn-prediction-mz.streamlit.app/)
+- **SmartCity Stress Index**: XGBoost, R² = 0.91. [Live demo](https://smartcitytraffic-stressindex-prediction.streamlit.app/)
+- **Kaggle House Prices**: weighted ensemble, 0.11548 RMSLE on the public leaderboard.
 
+📩 **Looking for an end-of-studies internship in Data/AI (3 months minimum), starting January 2027.** Languages: French (native), English (intermediate).
+
+</details>
+
+---
+
+<p align="center"><i>Ouvert aux opportunités de stage PFE en Data Science, Machine Learning et IA appliquée. Écrivez-moi !</i></p>
