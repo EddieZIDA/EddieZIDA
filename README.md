@@ -74,7 +74,7 @@ I build end-to-end Machine Learning projects, from data exploration to deployed 
 - **SmartCity Stress Index**: XGBoost, R² = 0.91. [Live demo](https://smartcitytraffic-stressindex-prediction.streamlit.app/)
 - **Kaggle House Prices**: weighted ensemble, 0.11548 RMSLE on the public leaderboard.
 
-📩 **Looking for an end-of-studies internship in Data/AI (3 months minimum), starting January 2027.** Languages: French (native), English (intermediate).
+📩 **Looking for an end-of-studies internship in Data/AI (3 months minimum), starting February 2027.** Languages: French (native), English (intermediate).
 
 </details>
 
