@@ -12,21 +12,17 @@
 
 ---
 
-Je conçois des systèmes d'IA de bout en bout : de l'exploration des données jusqu'à l'application déployée, avec un code testé, versionné et intégré en continu, et un suivi des modèles sous MLflow. En stage, j'ai développé des composants de systèmes à base de LLM : une plateforme de correction automatique de copies chez Hakili-lab et un moteur d'analyse d'appels commerciaux chez 3LM Solutions.
+Je conçois des systèmes d'IA de bout en bout : de l'exploration des données jusqu'à l'application déployée, avec un code testé, versionné et intégré en continu, et un suivi des modèles sous MLflow. En stage, j'ai développé des composants de systèmes à base de LLM : une plateforme de correction automatique de copies chez Hakili-lab et un moteur d'analyse d'appels commerciaux chez 3LM Solutions. J'ai aussi conçu Griot, un agent d'actualité par RAG strict qui cite toujours ses sources.
 
 ## 🚀 Projets phares
 
 | Projet | Ce que ça fait | Résultat clé | Stack | Liens |
 |---|---|---|---|---|
+| **[Griot](https://github.com/EddieZIDA/griot)** | Agent conversationnel d'actualité ouest-africaine (Burkina Faso, Sénégal, Mali, Côte d'Ivoire) qui répond uniquement à partir d'articles de presse ingérés | RAG strict · sources toujours citées · ingestion automatique toutes les 6 h | Gemini 2.5 Flash, Chroma, Shiny, Docker, GitHub Actions | [Code](https://github.com/EddieZIDA/griot) |
 | **[AeroRisk](https://github.com/EddieZIDA/aviation-risk-predictor)** | Prédit la gravité d'un accident aérien (NTSB 2008-2026 + météo NOAA) et génère un rapport de sécurité avec un LLM | Incertitude par prédiction conforme (MAPIE) | XGBoost, MAPIE, Gemini, Flask, MongoDB, React/TS | [Code](https://github.com/EddieZIDA/aviation-risk-predictor) |
 | **[Churn bancaire](https://github.com/EddieZIDA/churn-prediction)** | Identifie les clients d'une banque sur le point de partir (10 000 clients) | AUC-ROC 0,87 · Recall 89,9 % au seuil calibré sur le coût métier | LightGBM, SHAP, MLflow, Docker, Streamlit | [Démo](https://churn-prediction-mz.streamlit.app/) · [Code](https://github.com/EddieZIDA/churn-prediction) |
 | **[SmartCity Stress Index](https://github.com/EddieZIDA/SmartCityTraffic-StressIndex-Prediction)** | Prédit l'indice de stress des conducteurs (0-100) à partir du trafic et de la météo | R² = 0,91 | XGBoost, MLflow, Plotly, Streamlit | [Démo](https://smartcitytraffic-stressindex-prediction.streamlit.app/) · [Code](https://github.com/EddieZIDA/SmartCityTraffic-StressIndex-Prediction) |
 | **[Kaggle House Prices](https://github.com/EddieZIDA/KaggleCompetition_home-price-prediction)** | Estime le prix de vente de maisons (Ames, Iowa) | RMSLE 0,1071 en CV · 0,11548 au leaderboard public | Optuna, CatBoost, XGBoost, ensemble pondéré | [Code](https://github.com/EddieZIDA/KaggleCompetition_home-price-prediction) |
-
-<!--
-  À AJOUTER dès qu'un repo LLM/RAG est public (ex. chatbot de maths RAG) :
-| **[Nom du projet](lien)** | Chatbot de maths (RAG) pour les élèves du Burkina Faso | ... | LangChain / embeddings / LLM | [Démo](lien) · [Code](lien) |
--->
 
 Tous ces projets suivent la même rigueur : code dans `src/` séparé des notebooks, **tests pytest**, **CI GitHub Actions**, lint flake8 et suivi des expériences.
 
@@ -42,7 +38,7 @@ Tous ces projets suivent la même rigueur : code dans `src/` séparé des notebo
 |---|---|
 | Langages & données | Python, SQL, TypeScript, PostgreSQL, MongoDB |
 | Machine Learning | scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, SHAP, MAPIE |
-| LLM & NLP | API Gemini, LLM appliqués (extraction, correction, analyse de conversations) |
+| LLM & NLP | API Gemini, RAG (embeddings, Chroma), LLM appliqués (extraction, correction, analyse de conversations) |
 | MLOps & déploiement | MLflow, Docker, GitHub Actions, pytest, Streamlit, Flask |
 | Visualisation & cloud | Plotly, Matplotlib, Power BI, Google Cloud (GCP) |
 
@@ -68,7 +64,7 @@ Tous ces projets suivent la même rigueur : code dans `src/` séparé des notebo
 
 📍 Salé, Morocco · 🔍 **Looking for a final-year internship in AI Engineering** (from February 2027)
 
-I build end-to-end AI systems: from data exploration to deployed applications, with tested, versioned and continuously integrated code, and model tracking with MLflow. During my internships, I developed components of LLM-based systems: an automated exam-grading platform at Hakili-lab and a sales-call analysis engine at 3LM Solutions.
+I build end-to-end AI systems: from data exploration to deployed applications, with tested, versioned and continuously integrated code, and model tracking with MLflow. During my internships, I developed components of LLM-based systems: an automated exam-grading platform at Hakili-lab and a sales-call analysis engine at 3LM Solutions. I also built Griot, a strict-RAG news agent that always cites its sources.
 
 *Open to opportunities in AI Engineering and Machine Learning. Feel free to reach out!*
 
